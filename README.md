@@ -48,8 +48,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgments
 
-* Courtney Tucker --  [Ctucker9233](https://github.com/Ctucker9233) - Inspiration for the copy to clipboard functionality.
-* Billie Thompson --  [PurpleBooth](https://gist.github.com/PurpleBooth) - README.md and CONTRIBUTING.md templates.
+* Courtney Tucker -  [Ctucker9233](https://github.com/Ctucker9233) - Inspiration for the copy to clipboard functionality.
+* Billie Thompson -  [PurpleBooth](https://gist.github.com/PurpleBooth) - README.md and CONTRIBUTING.md templates.
   
   
 
