@@ -8,7 +8,7 @@ A simple lightweight web application that enables users to generate random passw
 <img src="assets/img/random_password_generator_desktop.png" alt="Random password generator desktop screenshot"/>
 
 ### Mobile
-<img src="assets/img/random_password_generator_mobile.png" height="200" alt="Random password generator mobile screenshot"/>
+<img src="assets/img/random_password_generator_mobile.png" height="400" alt="Random password generator mobile screenshot"/>
 
 
 ## Getting Started
