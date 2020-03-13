@@ -32,8 +32,10 @@ var generatePassword = document.getElementById("generate").addEventListener("cli
 
     } else if (passwordLength < 8 || passwordLength > 128) {
         alert("Your password does not meet the requirements. Please, try again.");
+        return;
     } else {
-        alert("Please, enter your answer in digits");
+        alert("You need enter your answer in digits. Please, try again.");
+        return;
     }
 
     // Generate the password based on the character and length preferences
