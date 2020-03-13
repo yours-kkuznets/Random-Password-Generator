@@ -32,7 +32,7 @@ Users may choose to include or exclude digits, uppercase & lowercase letters and
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on the code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/yours-kkuznets/Random-Password-Generator/blob/master/CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
 
 ## Authors
 
@@ -40,11 +40,12 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/yours-kkuznets/Random-Password-Generator/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
 * Courtney Tucker --  [Ctucker9233](https://github.com/Ctucker9233) -- Inspiration for the copy to clipboard functionality.
+* Billie Thompson --  [PurpleBooth](https://gist.github.com/PurpleBooth) -- README.md and CONTRIBUTING.md templates.
   
   
 
