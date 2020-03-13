@@ -12,7 +12,7 @@ var selectionArray = [{
     char: "!#$%&'()*+,-./:;<=>?@[]^_`{|}~"
 }]
 
-var clicked = document.getElementById("generate").addEventListener("click", function () {
+var generate = document.getElementById("generate").addEventListener("click", function () {
     var randomCharacters = "";
     var passwordLength = parseInt(prompt("Please, enter length for your password between 8 and 129 characters long"));
     var password = "";
@@ -43,9 +43,17 @@ var clicked = document.getElementById("generate").addEventListener("click", func
     }
 });
 
-const copy = () => {
-    const copyText = document.querySelector("#password");
+var copy = document.getElementById("copy").addEventListener("click", function () {
+    /* Get the text field */
+    var copyText = document.getElementById("password");
+
+    /* Select the text field */
     copyText.select();
+    copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+
+    /* Copy the text inside the text field */
     document.execCommand("copy");
-    alert("Your password has been copied to the clipboard.");
-}
+
+    /* Alert the copied text */
+    alert("Your password is copied to clipboard!");
+})
