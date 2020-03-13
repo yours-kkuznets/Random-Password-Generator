@@ -17,9 +17,9 @@ Clone the repository or download and unpack the source code of the project. From
 
 ## Running the Application
 
- - To generate a password, click on the `Generate` button.
+ - To generate a password, click on the `Generate Password` button.
  - You will receive a number of prompts that will allows you to choose which characters to include in your password.
- - To copy your password, click on the `Copy` button.
+ - To copy your password, click on the `Copy Password` button.
 
 
 ## Additional Information
@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](https://g
 ## Acknowledgments
 
 * Courtney Tucker -  [Ctucker9233](https://github.com/Ctucker9233) - Inspiration for the copy to clipboard functionality.
-* Billie Thompson -  [PurpleBooth](https://gist.github.com/PurpleBooth) - README.md and CONTRIBUTING.md templates.
+* Billie Thompson -  [PurpleBooth](https://gist.github.com/PurpleBooth) - [README.md] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) and [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) templates.
   
   
 
