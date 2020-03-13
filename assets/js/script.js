@@ -12,11 +12,14 @@ var selectionArray = [{
     char: "!#$%&'()*+,-./:;<=>?@[]^_`{|}~"
 }]
 
-var generate = document.getElementById("generate").addEventListener("click", function () {
+
+// Generate the password
+var generatePassword = document.getElementById("generate").addEventListener("click", function () {
     var randomCharacters = "";
     var passwordLength = parseInt(prompt("Please, enter length for your password between 8 and 129 characters long"));
     var password = "";
 
+    // Check for proper password length and choose which characters to use
     if (passwordLength > 8 && passwordLength <= 128) {
         var i;
         for (i = 0; i < selectionArray.length; i++) {
@@ -28,11 +31,12 @@ var generate = document.getElementById("generate").addEventListener("click", fun
         console.log(randomCharacters);
 
     } else if (passwordLength < 8 || passwordLength > 128) {
-        alert("Your password does not meet the requirements. Please refresh and try again.");
+        alert("Your password does not meet the requirements. Please, try again.");
     } else {
-        alert("Enter proper values");
+        alert("Please, enter your answer in digits");
     }
 
+    // Generate the password based on the character and length preferences
     if (randomCharacters !== "") {
         var i;
         for (i = 0; i < passwordLength; i++) {
@@ -40,20 +44,24 @@ var generate = document.getElementById("generate").addEventListener("click", fun
 
             document.getElementById("password").value = password;
         }
+    } else {
+        alert("You need to select at least one character type in order to proceed. Please, try again.")
     }
 });
 
-var copy = document.getElementById("copy").addEventListener("click", function () {
-    /* Get the text field */
+// Copy the password
+var copyPassword = document.getElementById("copy").addEventListener("click", function () {
+
+    // Get the text field
     var copyText = document.getElementById("password");
 
-    /* Select the text field */
+    // Select the text field
     copyText.select();
     copyText.setSelectionRange(0, 99999); /*For mobile devices*/
 
-    /* Copy the text inside the text field */
+    // Copy the password inside the text field
     document.execCommand("copy");
 
-    /* Alert the copied text */
+    // Alert of the copied password
     alert("Your password is copied to clipboard!");
 })
