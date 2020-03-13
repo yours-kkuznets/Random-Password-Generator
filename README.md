@@ -32,6 +32,8 @@ Users may choose to include or exclude digits, uppercase & lowercase letters and
 
 * [Bootstrap](https://getbootstrap.com/) - The HTML, CSS and JS library.
 
+* [Favicon.io](https://favicon.io/) - Favicon generator
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/yours-kkuznets/Random-Password-Generator/blob/master/CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
@@ -46,8 +48,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgments
 
-* Courtney Tucker --  [Ctucker9233](https://github.com/Ctucker9233) -- Inspiration for the copy to clipboard functionality.
-* Billie Thompson --  [PurpleBooth](https://gist.github.com/PurpleBooth) -- README.md and CONTRIBUTING.md templates.
+* Courtney Tucker --  [Ctucker9233](https://github.com/Ctucker9233) - Inspiration for the copy to clipboard functionality.
+* Billie Thompson --  [PurpleBooth](https://gist.github.com/PurpleBooth) - README.md and CONTRIBUTING.md templates.
   
   
 
