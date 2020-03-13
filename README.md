@@ -44,7 +44,7 @@ Please read [CONTRIBUTING.md](https://github.com/yours-kkuznets/Random-Password-
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yours-kkuznets/Random-Password-Generator/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/yours-kkuznets/Random-Password-Generator/blob/master/LICENSE.txt) file for details
 
 ## Acknowledgments
 
