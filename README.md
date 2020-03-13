@@ -28,6 +28,8 @@ Users may choose to include or exclude digits, uppercase & lowercase letters and
 
 ## Built With
 
+* HTML5, CSS3, Javascript
+
 * [Bootstrap](https://getbootstrap.com/) - The HTML, CSS and JS library.
 
 ## Contributing
