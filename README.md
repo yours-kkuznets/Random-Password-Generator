@@ -28,7 +28,7 @@ Users may choose to include or exclude digits, uppercase & lowercase letters and
 
 ## Built With
 
-* [Bootstrap](http://www.dropwizard.io/1.0.2/docs/) - The HTML, CSS and JS library.
+* [Bootstrap](https://getbootstrap.com/) - The HTML, CSS and JS library.
 
 ## Contributing
 
