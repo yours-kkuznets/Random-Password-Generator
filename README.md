@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](https://g
 ## Acknowledgments
 
 * Courtney Tucker -  [Ctucker9233](https://github.com/Ctucker9233) - Inspiration for the copy to clipboard functionality.
-* Billie Thompson -  [PurpleBooth](https://gist.github.com/PurpleBooth) - [README.md] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) and [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) templates.
+* Billie Thompson -  [PurpleBooth](https://gist.github.com/PurpleBooth) - [README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) and [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) templates.
   
   
 
